@@ -11,7 +11,7 @@ avrasm-macrobaselib
 
 Данная реализация написана на языке ассемблера "AVRASM2". 
 Соответственно, она предназначена для разработки программных прошивок (firmware) на языке ассемблер, для микроконтроллеров Atmel AVR (8-bit). 
-Описание:	http://we.easyelectronics.ru/AVR/avrasm-biblioteka-bazovyh-makroopredeleniy-macrobaselibinc.html 
+Описание:	http://inventproject.info/blog/avrasm-biblioteka-bazovyh-makroopredelenij-macrobaselib-inc/
 Код скачать:	https://github.com/Celeron/avrasm-macrobaselib 
 
 
